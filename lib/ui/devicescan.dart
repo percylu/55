@@ -33,6 +33,7 @@ class _DeviceScanState extends State<DeviceScan> {
   @override
   Widget build(BuildContext context) {
     ScreenUtil.init(
+        context,
         width: 750,
         height: 1335,
         allowFontScaling: true);

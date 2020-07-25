@@ -22,6 +22,7 @@ class _StartupState extends State<Startup> {
   void initState() {
     super.initState();
     ScreenUtil.init(
+        context,
         width: 750,
         height: 1334,
         allowFontScaling: true); //flutter_screenuitl >= 1.2

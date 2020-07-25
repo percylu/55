@@ -29,7 +29,7 @@ class _WeekChartState extends State<WeekChart> {
 
   @override
   Widget build(BuildContext context) {
-    ScreenUtil.init(width: 750, height: 1334, allowFontScaling: true);
+    ScreenUtil.init(context,width: 750, height: 1334, allowFontScaling: true);
     return Column(
       children: [
     Padding(

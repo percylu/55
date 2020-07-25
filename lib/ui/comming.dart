@@ -16,7 +16,7 @@ class Comming extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    ScreenUtil.init(width: 750, height: 1334, allowFontScaling: true);
+    ScreenUtil.init(context,width: 750, height: 1334, allowFontScaling: true);
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,

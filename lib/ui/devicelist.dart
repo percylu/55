@@ -21,6 +21,7 @@ class _DeviceListState extends State<DeviceList> {
   @override
   Widget build(BuildContext context) {
     ScreenUtil.init(
+        context,
         width: 750,
         height: 1335,
         allowFontScaling: true);

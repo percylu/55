@@ -30,7 +30,7 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     _statusBar();
-    ScreenUtil.init(width: 750, height: 1334, allowFontScaling: true); //flutter_screenuitl >= 1.2
+    ScreenUtil.init(context,width: 750, height: 1334, allowFontScaling: true); //flutter_screenuitl >= 1.2
     _children.add(MiaoLogin());
     _children.add(MiaoHomeTabView());
     //_children.add(MiaoDiscoveryTabView());

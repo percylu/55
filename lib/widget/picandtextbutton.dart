@@ -11,6 +11,7 @@ class picAndTextButton extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     ScreenUtil.init(
+        context,
         width: 750,
         height: 1334,
         allowFontScaling: true);

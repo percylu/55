@@ -32,7 +32,7 @@ class _DeviceSleepState extends State<DeviceSleep> {
 
   @override
   Widget build(BuildContext context) {
-    ScreenUtil.init(width: 750, height: 1335, allowFontScaling: true);
+    ScreenUtil.init(context,width: 750, height: 1335, allowFontScaling: true);
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,

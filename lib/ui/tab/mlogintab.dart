@@ -18,7 +18,7 @@ class MiaoLoginTabView extends State<MiaoLogin> {
 
   @override
   Widget build(BuildContext context) {
-    ScreenUtil.init(
+    ScreenUtil.init(context,
         width: 750,
         height: 1335,
         allowFontScaling: true); //flutter_screenuitl >= 1.2

@@ -145,7 +145,7 @@
         <entry key="flutter_screenutil">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-2.2.0/lib" />
+              <option value="$PROJECT_DIR$/../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-2.3.1/lib" />
             </list>
           </value>
         </entry>
@@ -500,7 +500,7 @@
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.flutter-io.cn/flutter_cupertino_date_picker-1.0.26+2/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.flutter-io.cn/flutter_launcher_icons-0.7.5/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.flutter-io.cn/flutter_page_indicator-0.0.3/lib" />
-      <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-2.2.0/lib" />
+      <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.flutter-io.cn/flutter_screenutil-2.3.1/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.flutter-io.cn/flutter_swiper-1.1.6/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.flutter-io.cn/http-0.12.1/lib" />
       <root url="file://$PROJECT_DIR$/../.pub-cache/hosted/pub.flutter-io.cn/http_parser-3.1.4/lib" />

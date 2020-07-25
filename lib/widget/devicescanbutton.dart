@@ -10,6 +10,7 @@ class deviceScanButton extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     ScreenUtil.init(
+        context,
         width: 750,
         height: 1335,
         allowFontScaling: true);
